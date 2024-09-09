@@ -1,5 +1,5 @@
 const router = require("express").Router()
-const { logger } = require("../middlewares/test")
+// const { logger } = require("../ middlewares/test")
 const adminController = require("./../controllers/admin.controller")
 
 router
